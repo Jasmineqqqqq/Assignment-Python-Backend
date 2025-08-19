@@ -1,4 +1,4 @@
-# Bharat Teleclinic Backend Assignment (Updated)
+# Bharat Teleclinic Backend Assignment 
 
 This repository contains an updated reference implementation for a simple **Tele‑Medicine** backend.  It is written using Python’s `FastAPI` framework.  The project was created as part of a practical exercise for Bharat Tele Clinic to assess backend skills.
 
